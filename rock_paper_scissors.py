@@ -11,7 +11,7 @@ def outcome_correct_format(player_one, player_two):
         pass
 
 def comparator(player_one:str, player_two:str):
-    return None
+    return -1
 
 
 def play_1_rock(response):
